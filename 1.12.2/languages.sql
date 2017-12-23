@@ -1,0 +1,1 @@
+INSERT INTO Languages(code, name) VALUES ('en-us','English (US)');
